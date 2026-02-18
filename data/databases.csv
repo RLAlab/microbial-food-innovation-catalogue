@@ -21,3 +21,4 @@
 "FAO/WHO GIFT","The Global Individual Food Consumption Data Tool from the FAO and WHO, contains data across 100+ countries","https://www.fao.org/gift-individual-food-consumption/en/"
 "Food-475 Database","A large-scale benchmark dataset of 475 food classes used for food recognition AI models","http://www.ivl.disco.unimib.it/activities/food475db/"
 "Taste of Industry (NECTAR)","Insights from blind taste tests with a total of 3,834 omnivores evaluating 167 products across 19 categories (2025: 2,684 omnivores on 122 products in 14 categories; 2024: 1,150 omnivores on 45 products in 5 categories)","https://www.nectar.org/research/2025-taste-of-the-industry|https://www.nectar.org/sensory-research/2024-taste-of-the-industry"
+"FoodMicrobionet","Database of studies on the composition of the bacterial microbiota of food obtained by amplicon targeted high throughput sequencing","https://ep142.shinyapps.io/ShinyFMBN_4_light/"
